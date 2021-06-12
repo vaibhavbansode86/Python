@@ -1,1 +1,1 @@
-# smart_work
+# Basic Python
